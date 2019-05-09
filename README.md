@@ -1,3 +1,5 @@
+Code for this [Pluralsight guide](https://www.pluralsight.com/guides/react-context-api/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
